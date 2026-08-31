@@ -1,0 +1,17 @@
+{
+	"name": "pi-cheaperinference",
+	"version": "0.1.0",
+	"description": "CheaperInference provider for pi: live model catalog with native pricing and graceful fallbacks",
+	"license": "MIT",
+	"type": "module",
+	"keywords": ["pi-package"],
+	"pi": {
+		"extensions": ["./extensions"]
+	},
+	"scripts": {
+		"test": "node --test test/*.test.ts"
+	},
+	"peerDependencies": {
+		"@earendil-works/pi-coding-agent": "*"
+	}
+}
