@@ -8,7 +8,8 @@
 	"type": "module",
 	"keywords": ["pi-package"],
 	"pi": {
-		"extensions": ["./extensions"]
+		"extensions": ["./extensions"],
+		"image": "https://github.com/user-attachments/assets/6d72e2ae-4c07-4415-88a5-c54842b2ac67"
 	},
 	"scripts": {
 		"test": "node --test test/*.test.ts"
