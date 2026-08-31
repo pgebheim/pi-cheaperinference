@@ -1,5 +1,5 @@
 {
-	"name": "pi-cheaperinference",
+	"name": "@lilco/pi-cheaperinference",
 	"version": "0.1.0",
 	"description": "CheaperInference provider for pi: live model catalog with native pricing and graceful fallbacks",
 	"license": "MIT",
