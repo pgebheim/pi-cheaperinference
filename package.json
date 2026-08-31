@@ -3,6 +3,8 @@
 	"version": "0.1.0",
 	"description": "CheaperInference provider for pi: live model catalog with native pricing and graceful fallbacks",
 	"license": "MIT",
+	"repository": "lilco-dev/pi-cheaperinference",
+	"homepage": "https://cheaperinference.com",
 	"type": "module",
 	"keywords": ["pi-package"],
 	"pi": {

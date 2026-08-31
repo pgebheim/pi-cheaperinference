@@ -5,7 +5,7 @@ A [pi](https://pi.dev) package that registers [CheaperInference](https://cheaper
 ## Install
 
 ```bash
-pi install git:github.com/pgebheim/pi-cheaperinference
+pi install git:github.com/lilco-dev/pi-cheaperinference
 ```
 
 ## Setup
