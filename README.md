@@ -18,6 +18,9 @@ Get a key at [cheaperinference.com](https://cheaperinference.com/?ref=OmfurAhns7
 
 Then pick a `cheaperinference/*` model in pi (`/model` or `pi --model cheaperinference/gpt-5.6-luna`).
 
+<img width="636" height="460" alt="image" src="https://github.com/user-attachments/assets/6d72e2ae-4c07-4415-88a5-c54842b2ac67" />
+
+
 ## What it does
 
 - Fetches the authenticated catalog (`GET /v1/models`) at startup and registers every priced model with its current input/output/cache rates (USD per million tokens, tiered rates where applicable).
